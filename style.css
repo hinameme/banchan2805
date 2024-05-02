@@ -1,0 +1,67 @@
+
+header{
+    background-color: pink;
+    color: gray;
+    padding-left: 50px;
+    padding-top: 30px;
+    width: 1920px;
+    height: 150px;
+}
+header ul{
+    margin-left: 30px;
+}
+
+
+main{text-align: center;
+    margin-top: 20px;
+}
+main img{
+    box-shadow:5px 5px gray;
+}
+
+
+.html{ 
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.html button{
+    border: solid pink 2px;
+    border-radius: 30px;
+    font-size: 24px;
+    background: pink;
+    color: gray;
+}
+
+
+
+.css{ 
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.css button{
+    border: solid pink 2px;
+    border-radius: 30px;
+    font-size: 24px;
+    background: pink;
+    color: gray;
+}
+
+
+footer{
+    background: pink;
+    width: 1920px;
+    height: 120px;
+}
+footer p{
+    padding-top: 30px;
+    color: gray;
+    font-size: 24px;
+    
+
+}
+
+
+
